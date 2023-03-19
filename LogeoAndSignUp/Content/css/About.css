@@ -1,0 +1,23 @@
+﻿body {
+    background-color: dimgray;
+}
+
+.blog-row {
+    margin-top: 50px;
+}
+
+.margin_bottom30 {
+    margin-bottom: 30px;
+}
+
+.margin_left10 {
+    margin-left: 10px;
+}
+
+.blog-content {
+    padding: 10px;
+}
+
+.bg-white {
+    background-color: #fff;
+}
